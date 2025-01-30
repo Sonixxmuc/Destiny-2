@@ -892,6 +892,20 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "Climbing",
+            "hash": 568611922,
+            "name": "The Mountaintop",
+            "plugs": [
+                [
+                    3301904089,
+                    3373736292
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
         }
     ]
 }

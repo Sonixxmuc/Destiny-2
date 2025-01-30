@@ -1,0 +1,211 @@
+{
+    "description": "",
+    "name": "Episode Echos",
+    "data": [
+        {
+            "description": "1st",
+            "hash": 2249996761,
+            "name": "Patron of Lost Causes",
+            "plugs": [
+                [
+                    247725512,
+                    2938480696
+                ],
+                [
+                    3038247973,
+                    64866129
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "2nd",
+            "hash": 2249996761,
+            "name": "Patron of Lost Causes",
+            "plugs": [
+                [
+                    3400784728,
+                    573122728
+                ],
+                [
+                    3038247973,
+                    3891536761,
+                    64866129,
+                    1549370717
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "1st rapid + payload\n2nd triple + tremors\n",
+            "hash": 2249996761,
+            "name": "Patron of Lost Causes",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3142289711,
+                    106909392
+                ],
+                [
+                    247725512,
+                    3400784728,
+                    2938480696,
+                    573122728
+                ],
+                [
+                    3038247973,
+                    3891536761,
+                    64866129,
+                    1549370717
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "1st clown\n2nd under presure",
+            "hash": 2450049485,
+            "name": "Line in the Sand",
+            "plugs": [
+                [
+                    247725512,
+                    1645158859,
+                    2938480696,
+                    3755250867
+                ],
+                [
+                    3078487919,
+                    3744057135
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "PVP"
+            ]
+        },
+        {
+            "description": "1st clown\n2nd rapid",
+            "hash": 2450049485,
+            "name": "Line in the Sand",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    689005463
+                ],
+                [
+                    247725512,
+                    2938480696,
+                    1645158859,
+                    3755250867
+                ],
+                [
+                    3078487919,
+                    3744057135
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "1st Demolist\n2nd Slicer",
+            "hash": 2328923181,
+            "name": "Breachlight",
+            "plugs": [
+                [
+                    3523296417,
+                    923806249,
+                    1906147653,
+                    3422796781
+                ],
+                [
+                    831391274,
+                    102912326
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "1st demolist\n2nd slicer",
+            "hash": 2328923181,
+            "name": "Breachlight",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3142289711,
+                    106909392
+                ],
+                [
+                    3523296417,
+                    923806249,
+                    1906147653,
+                    3422796781
+                ],
+                [
+                    831391274,
+                    102912326
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1298672084,
+            "name": "Perfect Paradox",
+            "plugs": [
+                [
+                    691659142,
+                    536173722
+                ],
+                [
+                    2679249093,
+                    788178929
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1298672084,
+            "name": "Perfect Paradox",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    106909392,
+                    1087426260
+                ],
+                [
+                    691659142,
+                    536173722
+                ],
+                [
+                    2679249093,
+                    788178929
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        }
+    ]
+}
