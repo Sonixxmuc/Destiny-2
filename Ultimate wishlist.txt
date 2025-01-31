@@ -1,8 +1,13 @@
+title: Die Mutter aller Listen
+description: Sammlung aller abgeschlossenen Listen
+
+
+
 Sammlung aller fertigen Listen
 
 -------------------------------------------------------------------------------------
 
-title:Ansturm alt
+Ansturm alt
 description:alle ansturm waffen vanguard
 
 
