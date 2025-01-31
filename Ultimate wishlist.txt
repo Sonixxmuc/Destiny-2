@@ -1,5 +1,5 @@
-title: Die Mutter aller Listen
-description: Sammlung aller abgeschlossenen Listen
+title:Die Mutter aller Listen
+description:Sammlung aller abgeschlossenen Listen
 
 
 
