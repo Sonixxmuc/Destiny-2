@@ -215,8 +215,7 @@
                 "PVE"
             ]
         },
-		
-		    {
+        {
             "description": "",
             "hash": 447296102,
             "name": "Truthteller",
@@ -247,8 +246,7 @@
                 "PVE"
             ]
         },
-		
-		        {
+        {
             "description": "",
             "hash": 4200122994,
             "name": "Veleda-F",
@@ -268,8 +266,7 @@
                 "PVP"
             ]
         },
-		
-		{
+        {
             "description": "",
             "hash": 4200122994,
             "name": "Veleda-F",
@@ -289,8 +286,7 @@
                 "PVE"
             ]
         },
-		
-		{
+        {
             "description": "",
             "hash": 4200122994,
             "name": "Veleda-F",
@@ -321,8 +317,7 @@
                 "GodPVP"
             ]
         },
-		
-		{
+        {
             "description": "1st",
             "hash": 423343404,
             "name": "Controlling Vision",
@@ -349,8 +344,7 @@
                 "GodPVP"
             ]
         },
-		
-		{
+        {
             "description": "2nd",
             "hash": 423343404,
             "name": "Controlling Vision",
@@ -377,8 +371,7 @@
                 "GodPVP"
             ]
         },
-		
-		{
+        {
             "description": "",
             "hash": 423343404,
             "name": "Controlling Vision",
@@ -407,8 +400,7 @@
                 "GodPVE"
             ]
         },
-		
-		{
+        {
             "description": "",
             "hash": 2800870005,
             "name": "The Domino",
@@ -426,8 +418,7 @@
                 "PVE"
             ]
         },
-		
-		{
+        {
             "description": "",
             "hash": 2800870005,
             "name": "The Domino",
@@ -453,8 +444,7 @@
                 "GodPVE"
             ]
         },
-		
-		  {
+        {
             "description": "1st",
             "hash": 3612142623,
             "name": "Live Fire",
@@ -472,8 +462,7 @@
                 "PVE"
             ]
         },
-		
-		{
+        {
             "description": "2nd",
             "hash": 3612142623,
             "name": "Live Fire",
@@ -491,8 +480,7 @@
                 "PVE"
             ]
         },
-		
-		{
+        {
             "description": "",
             "hash": 3612142623,
             "name": "Live Fire",
@@ -519,8 +507,7 @@
                 "GodPVE"
             ]
         },
-		
-		{
+        {
             "description": "1st",
             "hash": 3615421669,
             "name": "Suspectum-4fr",
@@ -538,8 +525,7 @@
                 "PVE"
             ]
         },
-		
-		{
+        {
             "description": "2nd",
             "hash": 3615421669,
             "name": "Suspectum-4fr",
@@ -557,8 +543,7 @@
                 "PVE"
             ]
         },
-		
-		{
+        {
             "description": "headstone bevorzugt",
             "hash": 3615421669,
             "name": "Suspectum-4fr",
@@ -587,8 +572,7 @@
                 "GodPVE"
             ]
         },
-		
-		 {
+        {
             "description": "",
             "hash": 3926811686,
             "name": "Parabellum",
@@ -615,8 +599,7 @@
                 "GodPVE"
             ]
         },
-		
-		  {
+        {
             "description": "",
             "hash": 3959549446,
             "name": "Yarovit MG4",
@@ -644,8 +627,7 @@
                 "GodPVE"
             ]
         },
-		
-		  {
+        {
             "description": "",
             "hash": 3998080529,
             "name": "Heliocentric QSc",
@@ -669,8 +651,7 @@
                 "GodPVE"
             ]
         },
-		
-		{
+        {
             "description": "zawalla",
             "hash": 3998080529,
             "name": "Heliocentric QSc",
@@ -686,8 +667,7 @@
             ],
             "tags": []
         },
-		
-		 {
+        {
             "description": "",
             "hash": 4019668921,
             "name": "Staccato-46",
@@ -704,8 +684,7 @@
                 "PVE"
             ]
         },
-		
-		{
+        {
             "description": "",
             "hash": 4019668921,
             "name": "Staccato-46",
@@ -721,8 +700,7 @@
                 "PVE"
             ]
         },
-		
-		{
+        {
             "description": "",
             "hash": 4019668921,
             "name": "Staccato-46",
@@ -745,8 +723,7 @@
                 "GodPVE"
             ]
         },
-		
-		 {
+        {
             "description": "",
             "hash": 4100775158,
             "name": "Pizzicato-22",
@@ -771,8 +748,7 @@
                 "GodPVP"
             ]
         },
-		
-		{
+        {
             "description": "",
             "hash": 4100775158,
             "name": "Pizzicato-22",
@@ -791,8 +767,7 @@
                 "PVP"
             ]
         },
-		
-		  {
+        {
             "description": "",
             "hash": 4114929480,
             "name": "Snorri FR5",
@@ -808,8 +783,7 @@
                 "PVP"
             ]
         },
-		
-		  {
+        {
             "description": "",
             "hash": 4114929480,
             "name": "Snorri FR5",
@@ -832,8 +806,7 @@
                 "GodPVP"
             ]
         },
-		
-		  {
+        {
             "description": "",
             "hash": 4114929480,
             "name": "Snorri FR5",
@@ -851,8 +824,7 @@
                 "PVE"
             ]
         },
-		
-		 {
+        {
             "description": "",
             "hash": 4114929480,
             "name": "Snorri FR5",
@@ -879,10 +851,116 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "1St",
+            "hash": 4233375372,
+            "name": "Marcato-45",
+            "plugs": [
+                [
+                    839105230,
+                    3661387068,
+                    4090651448
+                ],
+                [
+                    3142289711,
+                    1087426260
+                ],
+                [
+                    3523296417,
+                    1906147653
+                ],
+                [
+                    831391274,
+                    102912326
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "2nd",
+            "hash": 4233375372,
+            "name": "Marcato-45",
+            "plugs": [
+                [
+                    839105230,
+                    3661387068,
+                    4090651448
+                ],
+                [
+                    3142289711,
+                    1087426260
+                ],
+                [
+                    923806249,
+                    3422796781
+                ],
+                [
+                    831391274,
+                    102912326
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Permafire\n1st onslaught\n2nd Hatching",
+            "hash": 4233375372,
+            "name": "Marcato-45",
+            "plugs": [
+                [
+                    839105230,
+                    3661387068,
+                    4090651448
+                ],
+                [
+                    3142289711,
+                    1087426260
+                ],
+                [
+                    3400784728,
+                    573122728
+                ],
+                [
+                    95528736,
+                    831391274,
+                    956288240,
+                    102912326
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1719687748,
+            "name": "Crux Termination IV",
+            "plugs": [
+                [
+                    1478423395,
+                    1844523823
+                ],
+                [
+                    2985827016
+                ],
+                [
+                    1523832109,
+                    461595545
+                ],
+                [
+                    1439600632,
+                    3194351027,
+                    2282937672,
+                    2275087323
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
-		
-		
-	
-		
     ]
 }
