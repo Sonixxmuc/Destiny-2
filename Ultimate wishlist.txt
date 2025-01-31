@@ -8,7 +8,7 @@ Sammlung aller fertigen Listen
 -------------------------------------------------------------------------------------
 
 Ansturm alt
-description:alle ansturm waffen vanguard
+alle ansturm waffen vanguard
 
 
 // Forbearance - Forbearance (god-pve)
