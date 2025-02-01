@@ -508,43 +508,7 @@
             ]
         },
         {
-            "description": "1st",
-            "hash": 3615421669,
-            "name": "Suspectum-4fr",
-            "plugs": [
-                [
-                    124408337,
-                    1171887445
-                ],
-                [
-                    2978966579,
-                    344235611
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "2nd",
-            "hash": 3615421669,
-            "name": "Suspectum-4fr",
-            "plugs": [
-                [
-                    968510818,
-                    424370782
-                ],
-                [
-                    555281244,
-                    332733060
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "headstone bevorzugt",
+            "description": "headstone + Chill\nAssasine + chill\nAssasine + Prezision",
             "hash": 3615421669,
             "name": "Suspectum-4fr",
             "plugs": [
@@ -565,7 +529,9 @@
                 ],
                 [
                     2978966579,
-                    344235611
+                    344235611,
+                    555281244,
+                    332733060
                 ]
             ],
             "tags": [
