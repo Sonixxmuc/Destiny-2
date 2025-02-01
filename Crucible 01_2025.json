@@ -400,6 +400,29 @@
                 "PVE",
                 "PVP"
             ]
+        },
+        {
+            "description": "1st Loot\n2nd Keep away",
+            "hash": 2099894368,
+            "name": "Battle Scar",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3700496672,
+                    3619207468
+                ],
+                [
+                    3891536761
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }
