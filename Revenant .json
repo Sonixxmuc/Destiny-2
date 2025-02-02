@@ -375,7 +375,7 @@
             ]
         },
         {
-            "description": "",
+            "description": "1st chil\n2nd explosiv",
             "hash": 4224667951,
             "name": "Heretic's Fervor",
             "plugs": [
@@ -392,7 +392,9 @@
                 ],
                 [
                     2978966579,
-                    344235611
+                    344235611,
+                    3194351027,
+                    2275087323
                 ]
             ],
             "tags": [
