@@ -1,6 +1,16 @@
 title:World Loot
 description:Collection from All World Weapons
 
+// Senuna SI6 - Senuna SI6 (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=5159537&perks=839105230,1885400500,2779035018,124408337
+dimwishlist:item=5159537&perks=839105230,2420895100,2779035018,124408337
+dimwishlist:item=5159537&perks=4090651448,1885400500,2779035018,124408337
+dimwishlist:item=5159537&perks=4090651448,2420895100,2779035018,124408337
+dimwishlist:item=5159537&perks=3661387068,1885400500,2779035018,124408337
+dimwishlist:item=5159537&perks=3661387068,2420895100,2779035018,124408337
+
+
 // Controlling Vision - Controlling Vision (god-pvp)
 //notes: 1st tags:god-pvp
 dimwishlist:item=423343404&perks=839105230,2420895100,2451262963,1645158859
