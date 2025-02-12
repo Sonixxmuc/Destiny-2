@@ -11922,6 +11922,11 @@ dimwishlist:item=2856514843&perks=839105230,1885400500,1347741687,1171887445
 dimwishlist:item=2856514843&perks=839105230,1885400500,2717805783,4045335048
 
 
+// BrayTech Werewolf - BrayTech Werewolf (god-pve)
+//notes: test1 tags:god-pve
+dimwishlist:item=2869466318&perks=
+
+
 // Until Its Return -  Until Its Return (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=2883484461&perks=1482024992,106909392,2682205016,2459015849
