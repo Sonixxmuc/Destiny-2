@@ -2,8 +2,7 @@
     "description": "Superduper Liste von Sonixx",
     "name": "Die Liste sie alle zu knechten",
     "data": [
-	
-	 {
+        {
             "description": "",
             "hash": 3753063346,
             "name": "Legato-11",
@@ -738,7 +737,8 @@
                 ],
                 [
                     1885400500,
-                    1968497646
+                    1968497646,
+                    1561002382
                 ],
                 [
                     1820235745
@@ -1257,8 +1257,7 @@
                 "PVE"
             ]
         },
-		
-		 {
+        {
             "description": "",
             "hash": 2039776723,
             "name": "Wicked Sister",
@@ -2435,8 +2434,7 @@
                 "PVE"
             ]
         },
-		
-		 {
+        {
             "description": "1st Assasine\n2nd Auto",
             "hash": 2738601016,
             "name": "Cataphract GL3",
@@ -2610,8 +2608,7 @@
                 "PVE"
             ]
         },
-		
-		 {
+        {
             "description": "1st Assassin\n2nd Slice\n3rd Slideways",
             "hash": 1218113510,
             "name": "Tusk of the Boar",
@@ -2847,8 +2844,7 @@
                 "GodPVE"
             ]
         },
-		
-		 {
+        {
             "description": "",
             "hash": 2563012876,
             "name": "Matador 64",
@@ -2956,8 +2952,7 @@
                 "PVP"
             ]
         },
-		
-		 {
+        {
             "description": "",
             "hash": 2199554524,
             "name": "Bygones",
@@ -2977,8 +2972,7 @@
                 "PVP"
             ]
         },
-		
-		{
+        {
             "description": "",
             "hash": 2199554524,
             "name": "Bygones",
@@ -2996,8 +2990,7 @@
                 "PVE"
             ]
         },
-		
-		{
+        {
             "description": "",
             "hash": 2199554524,
             "name": "Bygones",
@@ -3021,8 +3014,7 @@
                 "GodPVP"
             ]
         },
-		
-		 {
+        {
             "description": "clown or auto ",
             "hash": 3221722018,
             "name": "Laser Painter",
@@ -3044,8 +3036,7 @@
                 "PVE"
             ]
         },
-		
-		{
+        {
             "description": "clown oder auto ",
             "hash": 3221722018,
             "name": "Laser Painter",
@@ -3075,8 +3066,7 @@
                 "GodPVE"
             ]
         },
-		
-		  {
+        {
             "description": "",
             "hash": 2026087437,
             "name": "Lingering Dread",
@@ -3241,8 +3231,7 @@
                 "GodPVE"
             ]
         },
-		
-		 {
+        {
             "description": "",
             "hash": 2715240478,
             "name": "Riptide",
@@ -3697,8 +3686,7 @@
                 "GodPVE"
             ]
         },
-		
-		 {
+        {
             "description": "",
             "hash": 3685470415,
             "name": "Veiled Threat",
@@ -5208,9 +5196,7 @@
                 "GodPVE"
             ]
         },
-		
-	
-	{
+        {
             "description": "meist gespielt",
             "hash": 1050806815,
             "name": "The Recluse",
@@ -6115,8 +6101,7 @@
                 "PVE"
             ]
         },
-		
-		 {
+        {
             "description": "",
             "hash": 2598420927,
             "name": "Chroma Rush",
@@ -6337,8 +6322,7 @@
                 "GodPVE"
             ]
         },
-		
-		{
+        {
             "description": "basic",
             "hash": 2328923181,
             "name": "Breachlight",
@@ -6622,8 +6606,7 @@
                 "GodPVE"
             ]
         },
-		
-		 {
+        {
             "description": "1. Volatile Launch\n2. Confined launch",
             "hash": 2599338625,
             "name": "Bitter/Sweet",
@@ -7083,8 +7066,7 @@
                 "PVE"
             ]
         },
-	
-	 {
+        {
             "description": "1st",
             "hash": 2249996761,
             "name": "Patron of Lost Causes",
@@ -7289,8 +7271,7 @@
                 "GodPVE"
             ]
         },
-		
-		 {
+        {
             "description": "support",
             "hash": 3485029080,
             "name": "Adamantite (Adept)",
@@ -8224,8 +8205,7 @@
                 "GodPVE"
             ]
         },
-		
-		 {
+        {
             "description": "",
             "hash": 3483485727,
             "name": " Mistral Lift",
@@ -8576,8 +8556,7 @@
                 "GodPVE"
             ]
         },
-		
-		  {
+        {
             "description": "",
             "hash": 839344841,
             "name": "Vengeful Whisper",
@@ -8682,8 +8661,7 @@
                 "GodPVE"
             ]
         },
-		
-		 {
+        {
             "description": "",
             "hash": 3886416794,
             "name": "Submission",
@@ -8999,8 +8977,7 @@
                 "GodPVE"
             ]
         },
-		
-		 {
+        {
             "description": "1st cascade\n2nd arsenal",
             "hash": 1762785662,
             "name": "VS Chill Inhibitor",
@@ -9239,8 +9216,7 @@
                 "GodPVE"
             ]
         },
-		
-		 {
+        {
             "description": "",
             "hash": 3444688218,
             "name": "Vision of Confluence",
@@ -9419,8 +9395,7 @@
                 "PVE"
             ]
         },
-		
-		 {
+        {
             "description": "",
             "hash": 8293111,
             "name": "Long Arm",
@@ -9582,8 +9557,7 @@
                 "GodPVE"
             ]
         },
-		
-		 {
+        {
             "description": "1st Chaos \n2nd Chain",
             "hash": 535198113,
             "name": "Forthcoming Deviance",
@@ -9843,8 +9817,7 @@
                 "GodPVE"
             ]
         },
-		
-		 {
+        {
             "description": "1st Assassin + surroundet\n",
             "hash": 2972949637,
             "name": "Koraxis's Distress",
@@ -10209,8 +10182,7 @@
                 "GodPVE"
             ]
         },
-		
-		  {
+        {
             "description": "",
             "hash": 424291879,
             "name": "Age-Old Bond",
@@ -10341,8 +10313,7 @@
                 "GodPVE"
             ]
         },
-		
-		 {
+        {
             "description": "",
             "hash": 1937552980,
             "name": "Doom of Chelchis",
@@ -10507,8 +10478,7 @@
                 "GodPVE"
             ]
         },
-		
-		  {
+        {
             "description": "",
             "hash": 3262192268,
             "name": "No Survivors",
@@ -10611,8 +10581,7 @@
                 "GodPVE"
             ]
         },
-		
-		 {
+        {
             "description": "",
             "hash": 2720651699,
             "name": "Zealot's Reward",
@@ -10821,8 +10790,7 @@
                 "GodPVE"
             ]
         },
-		
-		 {
+        {
             "description": "",
             "hash": 1392919471,
             "name": " Trustee",
@@ -11000,8 +10968,7 @@
                 "GodPVE"
             ]
         },
-		
-		 {
+        {
             "description": "1st Heil \n2nd Recon",
             "hash": 833898322,
             "name": "Abyss Defiant",
@@ -11330,26 +11297,111 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "Gambit",
+            "hash": 1975125963,
+            "name": "Qua Xaphan V",
+            "plugs": [
+                [
+                    839105230,
+                    3661387068,
+                    4090651448
+                ],
+                [
+                    2420895100,
+                    1885400500,
+                    1968497646,
+                    1087426260
+                ],
+                [
+                    1359896290,
+                    3400784728,
+                    2284787283,
+                    573122728,
+                    3563868667,
+                    3060983774
+                ],
+                [
+                    2048641572,
+                    2848615171,
+                    365154968,
+                    169755979,
+                    2939589096,
+                    1926441324
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "gambit",
+            "hash": 3962575203,
+            "name": "Hush",
+            "plugs": [
+                [
+                    3768438372,
+                    1196733167,
+                    2801223209
+                ],
+                [
+                    2154191829,
+                    16392701,
+                    3429800428
+                ],
+                [
+                    201365942,
+                    3523746922
+                ],
+                [
+                    4293542123,
+                    2675184851,
+                    3365897133,
+                    1551736345,
+                    3414324643,
+                    2662236651
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Gambit 13.02.2025 vorselection",
+            "hash": 267672635,
+            "name": "Backfang",
+            "plugs": [
+                [
+                    1263609309,
+                    1934171651
+                ],
+                [
+                    2420895100,
+                    1431678320,
+                    3142289711,
+                    1087426260
+                ],
+                [
+                    2859149211,
+                    3773585912,
+                    951095735,
+                    1966281507,
+                    1592669035,
+                    3878366039,
+                    1135494563,
+                    2817677128
+                ],
+                [
+                    3966416502,
+                    2173046394,
+                    717070634,
+                    1720528630
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
         }
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	]
+    ]
 }
