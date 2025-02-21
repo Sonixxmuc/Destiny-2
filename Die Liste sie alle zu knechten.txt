@@ -1083,7 +1083,8 @@ dimwishlist:item=93061497&perks=2541826827,598607952
 
 
 // Word of Crota - Word of Crota (god-pve)
-//notes: 1st repulsor 2nd dragonfly tags:god-pve
+//notes: 1st repulsor
+2nd dragonfly tags:god-pve
 dimwishlist:item=120706239&perks=839105230,3230963543,776531651,2048641572
 dimwishlist:item=120706239&perks=839105230,3230963543,776531651,1926441324
 dimwishlist:item=120706239&perks=839105230,3230963543,2541826827,2048641572
@@ -1151,7 +1152,9 @@ dimwishlist:item=120706239&perks=4090651448,3142289711,169755979,1926441324
 
 
 // Fang of Ir Yût (Adept) -  Fang of Ir Yût (Adept) (god-pve)
-//notes: 1st Keep away 2nd rapid hit 3rd rewind rounds tags:god-pve
+//notes: 1st Keep away
+2nd rapid hit
+3rd rewind rounds tags:god-pve
 dimwishlist:item=128782990&perks=839105230,1885400500,3619207468,555281244
 dimwishlist:item=128782990&perks=839105230,1885400500,3619207468,332733060
 dimwishlist:item=128782990&perks=839105230,1885400500,3198323828,555281244
@@ -1299,7 +1302,9 @@ dimwishlist:item=172461430&perks=839105230,106909392,344235611,1817983009
 
 
 // Crimil's Dagger - Crimil's Dagger (god-pve)
-//notes: 1St Precision 2nd Adagio 3rd Payload tags:god-pve
+//notes: 1St Precision
+2nd Adagio
+3rd Payload tags:god-pve
 dimwishlist:item=198854575&perks=4090651448,3142289711,2039302152,555281244
 dimwishlist:item=198854575&perks=4090651448,3142289711,2039302152,332733060
 dimwishlist:item=198854575&perks=4090651448,3142289711,2039302152,3673922083
@@ -2236,7 +2241,9 @@ dimwishlist:item=342514437&perks=1906147653,102912326
 
 
 // Coronach-22 - CORONACH-22 (god-pve)
-//notes: 1st assassin 2nd feeding 3rd zen tags:god-pve
+//notes: 1st assassin 
+2nd feeding
+3rd zen tags:god-pve
 dimwishlist:item=355382946&perks=839105230,1885400500,968510818,4293542123
 dimwishlist:item=355382946&perks=839105230,1885400500,2779035018,4293542123
 dimwishlist:item=355382946&perks=839105230,1885400500,2387244414,4293542123
@@ -2276,7 +2283,8 @@ dimwishlist:item=392008588&perks=839105230,3142289711,1748774930,102912326
 
 
 // Song of Ir Yût (Adept) - Song of Ir Yût (Adept) (god-pve)
-//notes: 1st target lock 2nd sword tags:god-pve
+//notes: 1st target lock
+2nd sword tags:god-pve
 dimwishlist:item=407511664&perks=839105230,1885400500,1523832109,365154968
 dimwishlist:item=407511664&perks=839105230,1885400500,1523832109,31345821
 dimwishlist:item=407511664&perks=839105230,1885400500,1523832109,2939589096
@@ -2477,7 +2485,8 @@ dimwishlist:item=445197843&perks=1840239774,3142289711,344235611,1817983009
 
 
 // Truthteller - Truthteller (god-pve)
-//notes: 1st Feeding Frenzy 2nd Grave tags:god-pve
+//notes: 1st Feeding Frenzy
+2nd Grave tags:god-pve
 dimwishlist:item=447296102&perks=1478423395,3032599245,2779035018,776531651
 dimwishlist:item=447296102&perks=1478423395,3032599245,2779035018,2541826827
 dimwishlist:item=447296102&perks=1478423395,3032599245,1171147302,776531651
@@ -2714,7 +2723,8 @@ dimwishlist:item=522366885&perks=1840239774,791862061,461595545,3418165135
 
 
 // Forthcoming Deviance - Forthcoming Deviance (god-pve)
-//notes: 1st Chaos 2nd Chain tags:god-pve
+//notes: 1st Chaos 
+2nd Chain tags:god-pve
 dimwishlist:item=535198113&perks=1263609309,2420895100,1523832109,3640170453
 dimwishlist:item=535198113&perks=1263609309,2420895100,1523832109,1817983009
 dimwishlist:item=535198113&perks=1263609309,2420895100,1523832109,2396489472
@@ -2986,19 +2996,8 @@ dimwishlist:item=568611921&perks=1844523823,2822142346,1906147653,2396489472
 dimwishlist:item=568611921&perks=1844523823,2822142346,1906147653,598607952
 
 
-// Forbearance - Forbearance (pve)
-//notes: tags:pve
-dimwishlist:item=568611921&perks=3523296417,2396489472
-
-
-// Forbearance - Forbearance ()
-dimwishlist:item=568611921&perks=2010801679,2396489472
-dimwishlist:item=568611921&perks=2010801679,598607952
-dimwishlist:item=568611921&perks=3797647183,2396489472
-dimwishlist:item=568611921&perks=3797647183,598607952
-
-
-// Forbearance - Forbearance ()
+// Forbearance - Forbearance (god-pve)
+//notes: 2nd tags:god-pve
 dimwishlist:item=568611921&perks=1478423395,2822142346,2010801679,2396489472
 dimwishlist:item=568611921&perks=1478423395,2822142346,2010801679,598607952
 dimwishlist:item=568611921&perks=1478423395,2822142346,3797647183,2396489472
@@ -3011,6 +3010,19 @@ dimwishlist:item=568611921&perks=1844523823,2822142346,2010801679,2396489472
 dimwishlist:item=568611921&perks=1844523823,2822142346,2010801679,598607952
 dimwishlist:item=568611921&perks=1844523823,2822142346,3797647183,2396489472
 dimwishlist:item=568611921&perks=1844523823,2822142346,3797647183,598607952
+
+
+// Forbearance - Forbearance (pve)
+//notes: tags:pve
+dimwishlist:item=568611921&perks=3523296417,2396489472
+
+
+// Forbearance - Forbearance (pve)
+//notes: tags:pve
+dimwishlist:item=568611921&perks=2010801679,2396489472
+dimwishlist:item=568611921&perks=2010801679,598607952
+dimwishlist:item=568611921&perks=3797647183,2396489472
+dimwishlist:item=568611921&perks=3797647183,598607952
 
 
 // The Mountaintop - The Mountaintop (god-pve)
@@ -6485,7 +6497,8 @@ dimwishlist:item=825495813&perks=3661387068,1087426260,984655331,717070634
 
 
 // Abyss Defiant - Abyss Defiant (god-pve)
-//notes: 1st Heil 2nd Recon tags:god-pve
+//notes: 1st Heil 
+2nd Recon tags:god-pve
 dimwishlist:item=833898322&perks=839105230,1885400500,3017780555,4293542123
 dimwishlist:item=833898322&perks=839105230,1885400500,3017780555,2675184851
 dimwishlist:item=833898322&perks=839105230,1885400500,1523832109,4293542123
