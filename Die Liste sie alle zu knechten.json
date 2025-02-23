@@ -2697,7 +2697,7 @@
             ]
         },
         {
-            "description": "1St Precision\n2nd Adagio\n3rd Payload",
+            "description": "1St Precision 2nd Adagio 3rd Payload",
             "hash": 198854575,
             "name": "Crimil's Dagger",
             "plugs": [
@@ -12346,6 +12346,69 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "Season 11",
+            "hash": 3143732432,
+            "name": "False Promises",
+            "plugs": [
+                [
+                    839105230,
+                    3661387068
+                ],
+                [
+                    1885400500,
+                    2420895100,
+                    1561002382
+                ],
+                [
+                    2779035018,
+                    3643424744,
+                    1359896290
+                ],
+                [
+                    3425386926
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "PVE: 1st Headstone 2nd Kill clip PVP: Headseeker",
+            "hash": 358788212,
+            "name": "Psi Hermetic V",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    1168162263,
+                    1347741687
+                ],
+                [
+                    124408337,
+                    1171887445,
+                    460017080,
+                    4045335048,
+                    1015611457,
+                    2923251173
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Quest",
+            "hash": 4209476803,
+            "name": "Khvostov 7G-02",
+            "plugs": [],
+            "tags": []
         }
     ]
 }
