@@ -2499,8 +2499,7 @@ dimwishlist:item=445197843&perks=1840239774,3142289711,344235611,1817983009
 
 
 // Truthteller - Truthteller (god-pve)
-//notes: 1st Feeding Frenzy
-2nd Grave tags:god-pve
+//notes: 1st Feeding Frenzy 2nd Grave tags:god-pve
 dimwishlist:item=447296102&perks=1478423395,3032599245,2779035018,776531651
 dimwishlist:item=447296102&perks=1478423395,3032599245,2779035018,2541826827
 dimwishlist:item=447296102&perks=1478423395,3032599245,1171147302,776531651
