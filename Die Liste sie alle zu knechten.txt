@@ -21367,14 +21367,6 @@ dimwishlist:item=4224667951&perks=1844523823,1996142143,3528046508,3194351027
 dimwishlist:item=4224667951&perks=1844523823,1996142143,3528046508,2275087323
 
 
-// Heretic's Fervor - Heretic's Fervor (god-pve)
-//notes: Sonderroll tags:god-pve
-dimwishlist:item=4224667951&perks=706527188,706527188
-dimwishlist:item=4224667951&perks=706527188,1961144892
-dimwishlist:item=4224667951&perks=1961144892,706527188
-dimwishlist:item=4224667951&perks=1961144892,1961144892
-
-
 // Ragnhild-D -  Ragnhild-D (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=4225322581&perks=466087222,3142289711,3528046508,788178929
