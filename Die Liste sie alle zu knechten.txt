@@ -941,6 +941,14 @@ dimwishlist:item=157601190&perks=2541826827,1464081238
 dimwishlist:item=157601190&perks=2541826827,2813913866
 
 
+// Joxer's Longsword - Joxer's Longsword (pvp)
+//notes: tags:pvp
+dimwishlist:item=157601190&perks=2579169598,460017080
+dimwishlist:item=157601190&perks=2579169598,4045335048
+dimwishlist:item=157601190&perks=2073244114,460017080
+dimwishlist:item=157601190&perks=2073244114,4045335048
+
+
 // Critical Anomaly (Adept) - Critical Anomaly (Adept) (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=172461430&perks=1840239774,106909392,2978966579,3640170453
