@@ -4285,6 +4285,18 @@ dimwishlist:item=727781522&perks=4090651448,1687452232,2682205016,1427256713
 dimwishlist:item=727781522&perks=4090651448,1687452232,2682205016,254337357
 
 
+// Eyes Unveiled - Eyes Unveiled (pve)
+//notes: tags:pve
+dimwishlist:item=727781522&perks=3643424744,1427256713
+dimwishlist:item=727781522&perks=3643424744,254337357
+dimwishlist:item=727781522&perks=3643424744,1134488199
+dimwishlist:item=727781522&perks=3643424744,2904194311
+dimwishlist:item=727781522&perks=2682205016,1427256713
+dimwishlist:item=727781522&perks=2682205016,254337357
+dimwishlist:item=727781522&perks=2682205016,1134488199
+dimwishlist:item=727781522&perks=2682205016,2904194311
+
+
 // Watchful Eye (Adept) -  Watchful Eye (Adept) (god-pve)
 //notes: overflow 1st tags:god-pve
 dimwishlist:item=737409399&perks=839105230,1885400500,3643424744,3966416502
