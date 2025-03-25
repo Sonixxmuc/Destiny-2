@@ -2620,6 +2620,18 @@ dimwishlist:item=547165496&perks=436053704,52780822,2860991074,3201496230
 dimwishlist:item=547165496&perks=436053704,52780822,2860991074,1545231802
 
 
+// Abyssal Edge - Abyssal Edge (pve)
+//notes: blockvorlage tags:pve
+dimwishlist:item=547165496&perks=2244851822,31345821
+dimwishlist:item=547165496&perks=2244851822,639190697
+dimwishlist:item=547165496&perks=2244851822,831391274
+dimwishlist:item=547165496&perks=2244851822,102912326
+dimwishlist:item=547165496&perks=2860991074,31345821
+dimwishlist:item=547165496&perks=2860991074,639190697
+dimwishlist:item=547165496&perks=2860991074,831391274
+dimwishlist:item=547165496&perks=2860991074,102912326
+
+
 // Retraced Path - Retraced Path (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=548958835&perks=839105230,2680121939,4245865861,2675184851
