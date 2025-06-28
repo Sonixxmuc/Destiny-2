@@ -3,6 +3,7 @@ title:Class Items
 
 //Hunter
 
+dimwishlist:item=2809120022&perks=3751917999,3751917993
 dimwishlist:item=2809120022&perks=1476923952,1476923956
 dimwishlist:item=2809120022&perks=1476923952,3751917994
 dimwishlist:item=2809120022&perks=1476923953,1476923955
