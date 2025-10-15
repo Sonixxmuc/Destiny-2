@@ -16391,26 +16391,6 @@
         },
         {
             "description": "",
-            "hash": 1193318082,
-            "name": "Shoreline Dissident",
-            "plugs": [
-                [
-                    3038247973,
-                    64866129
-                ],
-                [
-                    2048641572,
-                    1926441324,
-                    1464081238,
-                    2813913866
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "",
             "hash": 1411560894,
             "name": "Ahab Char",
             "plugs": [
