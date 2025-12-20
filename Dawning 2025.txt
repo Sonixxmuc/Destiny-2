@@ -1,5 +1,9 @@
 title:Dawning 2025
 
+// Mistral Lift - Mistral Lift shining ()
+dimwishlist:item=270610849&perks=
+
+
 // Mistral Lift - Mistral Lift (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=766122634&perks=839105230,1687452232,3987942396,3078487919
